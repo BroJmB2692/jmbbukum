@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Buku Market, LLC
 
 ### Technology Solutions • Automation • Digital Services
