@@ -81,7 +81,7 @@
         <li>Security & compliance</li>
         <li>Infrastructure modernization</li>
       </ul>
-      <a href="engage/">Visit Engage IT Partners →</a>
+      <a href="https://engageitpartners.com">Visit Engage IT Partners →</a>
     </div>
 
     <div class="card">
@@ -92,7 +92,7 @@
         <li>Custom scripts & tools</li>
         <li>Small business solutions</li>
       </ul>
-      <a href="solutions/">Visit Solutions In Motion →</a>
+      <a href="https://solutions-inmotion.com">Visit Solutions In Motion →</a>
     </div>
 
     <div class="card">
