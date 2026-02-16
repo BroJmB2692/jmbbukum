@@ -11,7 +11,7 @@
       background: #f6f7fb;
       color: #222;
       line-height: 1.8;
-      font-size: 1.5rem; /* larger base font */
+      font-size: 1.5rem; /* bigger base font */
     }
 
     /* Container for centered layout */
@@ -29,16 +29,19 @@
 
     h1 {
       font-size: 3.5rem; /* big main title */
+      font-weight: 700;  /* bold */
       margin-bottom: 0.5rem;
     }
 
     .tagline {
       color: #555;
-      font-size: 1.8rem; /* larger tagline */
+      font-size: 1.8rem;  /* larger tagline */
+      font-weight: 400;   /* normal weight */
     }
 
     h2 {
-      font-size: 2rem; /* section headings bigger */
+      font-size: 2rem;    /* section headings bigger */
+      font-weight: 700;   /* bold */
       margin-top: 3rem;
     }
 
@@ -53,23 +56,23 @@
 
     /* Paragraphs */
     p {
-      font-size: 1.5rem; /* bigger paragraphs */
+      font-size: 1.5rem;  /* bigger paragraphs */
       margin-bottom: 1.2rem;
-      font-weight: 500;
+      font-weight: 400;   /* normal weight */
     }
 
     /* Lists */
     ul li {
-      font-size: 1.4rem; /* larger list items */
+      font-size: 1.4rem;  /* larger list items */
       margin-bottom: 0.6rem;
-      font-weight: 500;
+      font-weight: 400;   /* normal weight */
     }
 
     /* Links */
     a {
       color: #2f6fed;
       text-decoration: none;
-      font-weight: 500;
+      font-weight: 500; /* links slightly bold */
     }
 
     a:hover {
@@ -81,7 +84,8 @@
       text-align: center;
       color: #777;
       margin-top: 3rem;
-      font-size: 1rem; /* slightly larger footer */
+      font-size: 1rem;
+      font-weight: 400;
     }
   </style>
 </head>
