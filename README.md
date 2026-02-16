@@ -1,9 +1,3 @@
----
-layout: default
----
-
-<div class="main-content">
-
 # Buku Market, LLC
 
 ### Technology Solutions • Automation • Digital Services
@@ -60,5 +54,3 @@ Interested in working together?
 ---
 
 © Buku Market, LLC
-
-</div>
