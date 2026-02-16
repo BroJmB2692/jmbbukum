@@ -109,7 +109,7 @@
     <div class="card">
       <h2>Contact</h2>
       <p>Email: cc@bukumarket.com</p>
-      <p>GitHub: https://bukumarket.com</p>
+      <p>Website: https://bukumarket.com</p>
     </div>
 
     <footer>
