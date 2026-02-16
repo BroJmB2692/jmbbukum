@@ -73,7 +73,7 @@
     </header>
 
     <div class="card">
-      <h2>🔐 Engage IT Partners</h2>
+      <h2>Engage IT Partners</h2>
       <p>Enterprise IT automation and infrastructure services.</p>
       <ul>
         <li>Linux systems engineering</li>
@@ -85,7 +85,7 @@
     </div>
 
     <div class="card">
-      <h2>🤖 Solutions In Motion</h2>
+      <h2>Solutions In Motion</h2>
       <p>Smart automation and custom digital tools.</p>
       <ul>
         <li>Workflow automation</li>
@@ -96,7 +96,7 @@
     </div>
 
     <div class="card">
-      <h2>📖 About Buku Market</h2>
+      <h2>About Buku Market</h2>
       <p>
         Buku Market is a technology parent company focused on building practical,
         efficient solutions — from enterprise IT automation to smart digital tools.
@@ -107,7 +107,7 @@
     </div>
 
     <div class="card">
-      <h2>📬 Contact</h2>
+      <h2>Contact</h2>
       <p>Email: cc@bukumarket.com</p>
       <p>GitHub: https://bukumarket.com</p>
     </div>
