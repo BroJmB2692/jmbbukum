@@ -48,7 +48,7 @@ Our mission is simple:
 
 Interested in working together?
 
-* Email: yourname@bukumarket.com  
+* Email: cc@bukumarket.com  
 * GitHub: https://bukumarket.com
 
 ---
