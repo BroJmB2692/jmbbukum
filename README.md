@@ -9,7 +9,8 @@
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
       background: #f6f7fb;
       color: #222;
-      line-height: 1.6;
+      font-size: 1.2rem;       /* bigger base font */
+      line-height: 1.8;
     }
 
     .container {
@@ -24,25 +25,26 @@
     }
 
     h1 {
-      font-size: 2.8rem;
+      font-size: 3.5rem;       /* bigger main title */
       margin-bottom: 0.5rem;
     }
 
     h2 {
-      margin-top: 2.5rem;
+      font-size: 2rem;         /* bigger section headings */
+      margin-top: 3rem;
     }
 
     .tagline {
       color: #555;
-      font-size: 1.2rem;
+      font-size: 1.5rem;       /* slightly bigger tagline */
     }
 
     .card {
       background: white;
-      padding: 2rem;
+      padding: 2.5rem;         /* more padding to balance bigger fonts */
       border-radius: 12px;
       box-shadow: 0 6px 20px rgba(0,0,0,0.05);
-      margin-bottom: 2rem;
+      margin-bottom: 2.5rem;
     }
 
     a {
@@ -59,7 +61,7 @@
       text-align: center;
       color: #777;
       margin-top: 3rem;
-      font-size: 0.9rem;
+      font-size: 1rem;         /* slightly bigger footer text */
     }
   </style>
 </head>
