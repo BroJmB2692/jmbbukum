@@ -17,7 +17,7 @@ Enterprise IT automation and infrastructure services.
 - Security & compliance tooling  
 - Infrastructure modernization  
 
-[Visit Engage IT Partners →](/engage/)
+[Visit Engage IT Partners →](https://engageitpartners.com/)
 
 ---
 
@@ -30,7 +30,7 @@ Smart automation and digital solutions for everyday efficiency.
 - Small business tech solutions  
 - Productivity systems  
 
-[Visit Solutions In Motion →](/solutions/)
+[Visit Solutions In Motion →](https://solutions-inmotion.com/)
 
 ---
 
