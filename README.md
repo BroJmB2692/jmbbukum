@@ -49,7 +49,7 @@ Our mission is simple:
 Interested in working together?
 
 * Email: cc@bukumarket.com  
-* GitHub: https://bukumarket.com
+* Site: https://bukumarket.com
 
 ---
 
