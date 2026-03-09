@@ -133,26 +133,17 @@
     </div>
 
 <div class="card">
-  <h2>About My Flip Theory</h2>
-  <p>
-    My Flip Theory focuses on the strategy behind successful real estate
-    property flips. We identify properties with strong value-add potential
-    and analyze renovation opportunities that can increase market value.
-  </p>
+  <h2>My Flip Theory</h2>
+  <p>Real estate strategies focused on identifying high-potential properties and transforming them into valuable homes and investments.</p>
 
-  <p>
-    By combining market insight, renovation strategy, and disciplined
-    budgeting, My Flip Theory helps transform undervalued properties into
-    high-quality homes and profitable real estate investments.
-  </p>
+  <ul>
+    <li>Real estate flip opportunity analysis</li>
+    <li>Renovation planning and ROI strategy</li>
+    <li>Insights for investors, buyers, and sellers</li>
+    <li>Market-driven home value improvements</li>
+  </ul>
 
-  <p>
-    For investors, this means smarter property selection and improved
-    return on investment. For homebuyers, it means access to thoughtfully
-    renovated homes that balance modern updates with long-term value.
-    Homeowners and sellers can also benefit from insights on improvements
-    that may increase resale value and market appeal.
-  </p>
+  <a href="https://myfliptheory.com">Visit My Flip Theory →</a>
 </div>
 
     <div class="card">
