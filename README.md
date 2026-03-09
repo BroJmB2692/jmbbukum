@@ -99,6 +99,17 @@
     </header>
 
     <div class="card">
+      <h2>About Buku Market</h2>
+      <p>
+        Buku Market is a technology parent company focused on building practical,
+        efficient solutions — from enterprise IT automation to smart digital tools.
+      </p>
+      <p>
+        Our mission is simple: reduce friction, save time, and make technology work better.
+      </p>
+    </div>
+    
+    <div class="card">
       <h2>Engage IT Partners</h2>
       <p>Enterprise IT automation and infrastructure services.</p>
       <ul>
@@ -119,17 +130,6 @@
         <li>Small business solutions</li>
       </ul>
       <a href="https://solutions-inmotion.com">Visit Solutions In Motion →</a>
-    </div>
-
-    <div class="card">
-      <h2>About Buku Market</h2>
-      <p>
-        Buku Market is a technology parent company focused on building practical,
-        efficient solutions — from enterprise IT automation to smart digital tools.
-      </p>
-      <p>
-        Our mission is simple: reduce friction, save time, and make technology work better.
-      </p>
     </div>
 
     <div class="card">
