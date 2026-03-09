@@ -42,7 +42,7 @@
     h2 {
       font-size: 2rem;    /* section headings bigger */
       font-weight: 700;   /* bold */
-      margin-top: 3rem;
+      margin-top: 0;
     }
 
     /* Card layout */
