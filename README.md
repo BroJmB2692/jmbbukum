@@ -48,7 +48,7 @@
     /* Card layout */
     .card {
       background: white;
-      padding: 2.5rem;
+      padding: 1rem 2.5rem 2.5rem 2.5rem; /* top right bottom left */
       border-radius: 12px;
       box-shadow: 0 6px 20px rgba(0,0,0,0.05);
       margin-bottom: 2.5rem;
