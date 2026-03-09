@@ -135,14 +135,12 @@
 <div class="card">
   <h2>My Flip Theory</h2>
   <p>Real estate strategies focused on identifying high-potential properties and transforming them into valuable homes and investments.</p>
-
   <ul>
     <li>Real estate flip opportunity analysis</li>
     <li>Renovation planning and ROI strategy</li>
     <li>Insights for investors, buyers, and sellers</li>
     <li>Market-driven home value improvements</li>
   </ul>
-
   <a href="https://myfliptheory.com">Visit My Flip Theory →</a>
 </div>
 
